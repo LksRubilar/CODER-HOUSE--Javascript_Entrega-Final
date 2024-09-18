@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 300000,
+        "id": 1,
+        "title": "NINTENDO SWITCH OLED",
+        "thumbnailUrl": "./img/consola_01.jpg"
+    },
+    {
+        "precio": 580000,
+        "id": 2,
+        "title": "PLAY STATION 5",
+        "thumbnailUrl": "./img/consola_02.jpg"
+    },
+    {
+        "precio": 350000,
+        "id": 3,
+        "title": "XBOX SERIES X",
+        "thumbnailUrl": "./img/consola_03.jpg"
+    },
+    {
+        "precio": 45000,
+        "id": 4,
+        "title": "Mario Kart Delux",
+        "thumbnailUrl": "./img/juego_1.jpg"
+    },
+    {
+        "precio": 69000,
+        "id": 5,
+        "title": "Hogwarts Legacy",
+        "thumbnailUrl": "./img/juego_2.jpg"
+    },
+    {
+        "precio": 40000,
+        "id": 6,
+        "title": "Halo Infinite",
+        "thumbnailUrl": "./img/juego_3.jpg"
+    }
+]

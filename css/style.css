@@ -1,0 +1,18 @@
+.bg-banner {
+  background-image: linear-gradient(to right, #000000b3, #000000b3),
+    url(../img/header.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 15rem;
+  padding: 5rem 0 5rem 0;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 15rem;
+  width: auto;
+  align-self: center;
+  padding-left: 3rem;
+}
